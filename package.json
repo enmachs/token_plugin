@@ -1,0 +1,9 @@
+{
+  "name": "insomna-plugin-token",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "insomnia": {                    
+    "name": "token-change",
+    "description": "Reset token with every request"
+  }
+}
